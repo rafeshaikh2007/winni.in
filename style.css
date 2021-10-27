@@ -28,11 +28,11 @@ body{
 	height :auto;
 }
 .desc{
-	padding :16px; 
+	padding :15px; 
 	text-align :center;		
 }
 .price{
-	padding: 16px;
+	padding: 15px;
 	color: rgb(118, 109, 245);
 	align-items: 25px;
 }
