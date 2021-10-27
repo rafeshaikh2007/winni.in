@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+	box-sizing : border box; 
+}
+body{
+	margin:0 ;
+	background : white;		
+}
+
+.container{
+	max-width :3000px;
+	margin :auto;	
+	background :#f2f2f2;
+	overflow : auto ;
+}
+.conetainer desc{
+        color: #F4CA99;
+}
+.img-gallery{
+	margin :5px;
+	border:1px solid #ccc;
+	float:left;
+	width:251px;
+}
+.img-gallery img{
+	width : 100%;
+	height :auto;
+}
+.desc{
+	padding :15px;
+	text-align :center;		
+}
+.price{
+	padding: 15px;
+	color: rgb(118, 109, 245);
+	align-items: 25px;
+}
+.price:hover{
+	color: #ff4343;
+}
+
